@@ -1,0 +1,5 @@
+rich>=10.0.0
+requests>=2.25.1
+dnspython>=2.1.0
+python-whois>=0.7.3
+keyboard>=0.13.5
